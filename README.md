@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hegdeshreya
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m Shreya.
+- 🌱 I’m currently learning Front end Deveopment.
 - I will be sharing mini projects on my github profile.
 - Happy coding friends
 
